@@ -85,6 +85,8 @@ namespace ArtifactSelector.source_processor
             { Constants.GOLDEN_TROUPE_SET_KWORD, TokenType.SET_GOLDEN_TROUPE },
             { Constants.SONG_OF_DAYS_PAST_SET_KWORD, TokenType.SET_SONG_OF_DAYS_PAST },
             { Constants.ECHOING_WOODS_SET_KWORD, TokenType.SET_ECHOING_WOOD },
+            { Constants.HARMONIC_WHIMSY_SET_KWORD, TokenType.SET_HARMONIC_WHIMSY },
+            { Constants.UNFINISHED_REVERIE, TokenType.SET_UNFINISHED_REVERIE }
     };
 
         public Token MakeToken(string str, int lineNum)
