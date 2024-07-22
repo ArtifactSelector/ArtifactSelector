@@ -20,6 +20,8 @@ e.g., `.\ArtifactSelector.exe source.txt`
 
 ## Source file
 
+The source file is the user-defined rules written in a simple text file. The grammer rules closely follow that of other popular programming languages such as Java, C/C++ and C# with a few modifications.
+
 ### Meta symbols:
 ```
 a* - repetition 0 or more times of a
@@ -74,8 +76,11 @@ set: 'GLADIATORSFINALE' | 'WANDERERSTROUPE' | 'NOBLESSEOBLIGE' |
      'VOURUKASHASGLOW' | 'MARECHAUSSEEHUNTER' | 'GOLDENTROUPE' |
      'SONGOFDAYSPAST' | 'NIGHTTIMEWHISPERSINTHEECHOINGWOODS'
 ```
+Note: '#' can be used to comment out an entire line or part of a line.
 
 ### Sample source file
+
+
 ```
 #######################################################
 # Declarations
