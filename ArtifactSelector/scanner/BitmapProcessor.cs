@@ -1,4 +1,6 @@
-﻿using Accord.Imaging.Filters;
+﻿// Copied and modified from InventoryKamera(https://github.com/Andrewthe13th/Inventory_Kamera) under MIT License.
+
+using Accord.Imaging.Filters;
 using System;
 using System.Drawing;
 using Tesseract;

@@ -1,4 +1,6 @@
-﻿using ArtifactSelector.model;
+﻿// Copied and modified from InventoryKamera(https://github.com/Andrewthe13th/Inventory_Kamera) under MIT License.
+
+using ArtifactSelector.model;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;

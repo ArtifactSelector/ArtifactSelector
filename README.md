@@ -145,3 +145,11 @@ DEF%
 None
 Trash
 ```
+
+## Acknowledgement
+This project is built on top of the [InventoryKamera](https://github.com/Andrewthe13th/Inventory_Kamera) project. The following files contain code that are copied and modified from the original project:
+* [Rect.cs](ArtifactSelector/common/Rect.cs)
+* [ArtifactScanner.cs](ArtifactSelector/scanner/ArtifactScanner.cs)
+* [BitmapProcessor.cs](ArtifactSelector/scanner/BitmapProcessor.cs)
+* [Navigation.cs](ArtifactSelector/scanner/Navigation.cs)
+* [StringUtil.cs](ArtifactSelector/util/StringUtil.cs)

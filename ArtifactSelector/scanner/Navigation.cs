@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Copied and modified from InventoryKamera(https://github.com/Andrewthe13th/Inventory_Kamera) under MIT License.
+
+using System;
 using System.Diagnostics;
 using System.Drawing;
 using System.Drawing.Imaging;

@@ -1,4 +1,6 @@
-﻿using System.Drawing;
+﻿// Copied and modified from InventoryKamera(https://github.com/Andrewthe13th/Inventory_Kamera) under MIT License.
+
+using System.Drawing;
 using System.Runtime.InteropServices;
 
 namespace ArtifactSelector
