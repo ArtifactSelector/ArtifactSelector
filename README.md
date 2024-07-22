@@ -1,3 +1,8 @@
+# Artifact Selector
+A fan-made Genshin Impact tool that automates the selection of artifacts in artifact strongboxes with user-defined selection rules. 
+
+This project contains sections of code from the [InventoryKamera](https://github.com/Andrewthe13th/Inventory_Kamera) project, see [acknowledgement](#acknowledgement).
+
 ## Running the program
 1. Ensure that Genshin window has aspect ratio of 16:9 and not in fullscreen mode. 
 1. Ensure that the artifact strongbox selection page is opened:
