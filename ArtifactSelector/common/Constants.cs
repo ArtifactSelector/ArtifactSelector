@@ -99,7 +99,7 @@ namespace ArtifactSelector
         public const string PALEFLAME_SET_KWORD = "PALEFLAME";
         public const string SHIMENAWA_SET_KWORD = "SHIMENAWASREMINISCENCE";
         public const string EMBLEM_FATE_SET_KWORD = "EMBLEMOFSEVEREDFATE";
-        public const string HUSK_SET_KWORD = "HUSKOFPOLENTDREAMS";
+        public const string HUSK_SET_KWORD = "HUSKOFOPLENTDREAMS";
         public const string OCEAN_HUE_SET_KWORD = "OCEANHUEDCLAM";
         public const string VERMILLION_SET_KWORD = "VERMILLIONHEREAFTER";
         public const string ECHOES_SET_KWORD = "ECHOESOFANOFFERING";
